@@ -40,6 +40,5 @@ backend is definitely challeging but it's super fufulling when it works correctl
 
 NOTES
 
-photos of the finshed product are in the finished folder
 link to video: https://drive.google.com/file/d/1DONYeaAPcNJ38Ch1304oM8kyB3WEKZeC/view?usp=sharing
 the video saved as an .avi file so you may need something seperate to view (i needed a different video player on my laptop)
